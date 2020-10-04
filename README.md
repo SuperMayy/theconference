@@ -1,10 +1,10 @@
-# theconference
+# theconference : https://supermayy.github.io/theconference/
 
 This mini site uses the jitsi API which is open source
 It uses the GASP library which controls the animation and svg for animation
 The website's home poage is responsive, but the video is not.
 
-##**It has the following features:**
+## It has the following features:
 Auto-view the active speaker or click on any attendee to see their video
 Text chatting (web only)
 Lock a room with a password
@@ -22,7 +22,7 @@ Record the stream and download it via drop box
 Set yourself as moderator so everyone is muted and their videos are off
 can set make other need permission to join the call 
 
-Furure adaptations
+**Future adaptations**
 Host so modifications can be made to things like log
 Reserch scaling with AWS
 Google analytics to see who is in meeting
