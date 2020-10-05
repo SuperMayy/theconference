@@ -23,6 +23,7 @@ Set yourself as moderator so everyone is muted and their videos are off
 can set make other need permission to join the call 
 
 **Future adaptations**
-Host so modifications can be made to things like log
-Reserch scaling with AWS
-Google analytics to see who is in meeting
+1. Host so modifications can be made to things like log
+2. Reserch scaling with AWS
+3. Google analytics to see who is in meeting
+4. Make the live strea,m mobile responsive.
